@@ -1,4 +1,5 @@
-# Hangman game
+# Hangman game by Saumya Gaur
+
 import random
 
 WORDLIST_FILENAME = "words.txt"
